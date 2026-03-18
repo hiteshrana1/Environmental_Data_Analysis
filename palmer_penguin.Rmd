@@ -157,5 +157,4 @@ I think this descriptions that I add will help me to understand the whole meanin
 
 ## Acknowledgments
 
-This document was prepared with the assistance of an AI language model to support conceptual
-understanding of regression modeling and cross-validation techniques. All analysis, interpretation, R code implementation, and final text composition were performed by the author based on classroom instruction and course materials provided by Professor Masahiro Ryo.
+This document was for understanding of regression modeling and cross-validation techniques. All analysis, interpretation, R code implementation, and final text composition were performed by the author based on classroom instruction and course materials.
