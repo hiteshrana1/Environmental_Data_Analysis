@@ -1,5 +1,5 @@
 # Energy reporting and data-quality controls
-**Status: working SQL prototype — portfolio project in progress.**
+**Status: working SQL prototype portfolio project in progress.**
 
 ## Business question
 How much electricity can be supported by the available records, and which issues must be resolved before reporting a complete total?
